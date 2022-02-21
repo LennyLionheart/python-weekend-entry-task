@@ -19,7 +19,7 @@ flightdata = args.flightdata
 origin = args.origin
 destination = args.destination
 bags_count = args.bags
-returntrip = args.returntrip
+# returntrip = args.returntrip
 
 
 # open file and put the flight into a tuple of dictionaries
